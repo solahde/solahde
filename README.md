@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)]
 <h1 align="center">Hi 👋, I'm Sami Lähde</h1>
 <h3 align="center">A passionate junior data analyst from Finland</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/dancing-panda-in-a-stone-gph2o0ysnt71v4l8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solahde&label=Profile%20views&color=0e75b6&style=flat" alt="solahde" /> </p>
 
