@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solahde&label=Profile%20views&color=0e75b6&style=flat" alt="solahde" /> </p>
 
+- 🔭 I’m currently working on [Customer Management System](https://github.com/users/solahde/projects/1)
+
 - 🌱 I’m currently learning **Relational Database Design, XHTML, Power BI**
 
 - 💬 Ask me about **Python, SQL, Pandas**
